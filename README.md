@@ -22,7 +22,7 @@
 ---
 
 ## 🛠️ 技术架构  
-```plaintext
+
 核心技术栈：
 - 语言: ArkTS 90% | C++ 10% (高性能解码)
 - 框架: HarmonyOS Stage 模型
@@ -34,5 +34,26 @@
 依赖服务：
 - 本地数据库: @ohos.data.relationalStore  
 - 音频解码库: libOpenCodec (NDK 优化版)
-```plaintext
+
+## 说明
+---
+
+
+### 地址填写示例
+填写应用内设置时，需按以下格式拆分地址：
+
+- 例如：`http(s)://1.2.3.4:1000`
+- 对应
+- 主机：`1.2.3.4`
+- 端口：`1000`
+- 协议：`http(s)`
+
+> 无端口域名的填写规则：
+> - http://example.com → 端口填 80，协议填 http
+> - https://example.com → 端口填 443，协议填 https
+### 部署方式
+- 自主部署指南：<a href="https://github.com/nooblong/NeteaseCloudMusicApiBackup" target="_blank">点击查看GitHub项目</a>
+
+---
+
 
