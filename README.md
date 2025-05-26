@@ -1,6 +1,9 @@
 # Melotopia 🎧  
 **✨ 鸿蒙原生音乐播放器 | 🚀 全场景设备适配**  
 
+# 前往 Melotopia 新版
+你可以前往以下链接获取 Melotopia 的新版应用：
+[Release](https://github.com/XiaoChuangll/My-Blog/releases/download/v1.5.5/Melotopia_1.5.5.hap)
 ---
 
 ## 📖 项目概述  
