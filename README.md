@@ -2,7 +2,7 @@
 **✨ 鸿蒙原生音乐播放器 | 🚀 全场景设备适配**  
 
 
-[Release](https://github.com/XiaoChuangll/My-Blog/releases/download/v1.5.5/Melotopia_1.5.5.hap)
+[Release](https://github.com/XiaoChuangll/My-Blog/releases)
 ---
 
 ## 📖 项目概述  
