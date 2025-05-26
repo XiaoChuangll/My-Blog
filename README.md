@@ -34,4 +34,5 @@
 依赖服务：
 - 本地数据库: @ohos.data.relationalStore  
 - 音频解码库: libOpenCodec (NDK 优化版)
+```plaintext
 
