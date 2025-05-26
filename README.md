@@ -51,8 +51,8 @@
 - 协议：`http(s)`
 
 > 无端口域名的填写规则：
-> - http://example.com → 端口填 80，协议填 http
-> - https://example.com → 端口填 443，协议填 https
+> - `http://example.com` → 端口填 80，协议填 http
+> - `https://example.com` → 端口填 443，协议填 https
 ### 部署方式
 - 自主部署指南：<a href="https://github.com/nooblong/NeteaseCloudMusicApiBackup" target="_blank">点击查看GitHub项目</a>
 
